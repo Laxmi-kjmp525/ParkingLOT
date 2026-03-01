@@ -1,5 +1,7 @@
 Parking Lot Management System
 📌 Project Overview
+<img width="1920" height="1080" alt="Screenshot (480)" src="https://github.com/user-attachments/assets/7ea2b559-e00f-4cfe-a8c9-533c7e0691ed" />
+<img width="1920" height="1080" alt="Screenshot (481)" src="https://github.com/user-attachments/assets/918ff1b9-314c-41a1-a9bb-8378cb378f99" />
 
 The Parking Lot Management System is a full-stack web application that automates vehicle parking operations.
 This system allows users to:
