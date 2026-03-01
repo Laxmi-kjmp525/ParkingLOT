@@ -1,7 +1,7 @@
 Parking Lot Management System
+
+
 📌 Project Overview
-<img width="1920" height="1080" alt="Screenshot (480)" src="https://github.com/user-attachments/assets/7ea2b559-e00f-4cfe-a8c9-533c7e0691ed" />
-<img width="1920" height="1080" alt="Screenshot (481)" src="https://github.com/user-attachments/assets/918ff1b9-314c-41a1-a9bb-8378cb378f99" />
 
 The Parking Lot Management System is a full-stack web application that automates vehicle parking operations.
 This system allows users to:
@@ -136,8 +136,12 @@ Add payment gateway integration
 
 📸 Demo
 
-📽 Short demo video: (Add here)
-📷 Screenshots: (Add below)
+📽 Short demo video: 
+https://www.loom.com/share/cfda70be1b9f45b2923bdf12b01acc6c
+
+📷 Screenshots: 
+<img width="1920" height="970" alt="Screenshot (480)" src="https://github.com/user-attachments/assets/aab37c51-1498-4776-b1b5-b2525e2efe2e" />
+<img width="1920" height="960" alt="Screenshot (481)" src="https://github.com/user-attachments/assets/fee394da-e98a-4bef-8145-f0e4b29d73ec" />
 
 👩‍💻 Author
 Laxmi
