@@ -1,0 +1,14 @@
+# Node
+parkinglot-frontend/node_modules/
+parkinglot-frontend/dist/
+
+# .NET
+ParkingLot.Api/bin/
+ParkingLot.Api/obj/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
