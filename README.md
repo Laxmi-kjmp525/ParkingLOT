@@ -1,3 +1,4 @@
+
 Parking Lot Management System
 
 
@@ -142,6 +143,7 @@ https://www.loom.com/share/cfda70be1b9f45b2923bdf12b01acc6c
 📷 Screenshots: 
 <img width="1920" height="970" alt="Screenshot (480)" src="https://github.com/user-attachments/assets/aab37c51-1498-4776-b1b5-b2525e2efe2e" />
 <img width="1920" height="960" alt="Screenshot (481)" src="https://github.com/user-attachments/assets/fee394da-e98a-4bef-8145-f0e4b29d73ec" />
+<img width="1898" height="960" alt="Screenshot (455)" src="https://github.com/user-attachments/assets/ce077a21-1933-4401-a5c5-53a9abf56bf4" />
 
 👩‍💻 Author
 Laxmi
